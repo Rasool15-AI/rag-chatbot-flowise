@@ -77,8 +77,3 @@ Once deployed, share it on LinkedIn with a caption like:
 > #AI #GenAI #RAG #Flowise #LLM #Chatbot #OpenSource
 
 ---
-
-Let me know if you want me to:
-- Create the `README.md` file for download
-- Generate a `requirements.txt`
-- Help publish the chatbot on Hugging Face or Render
