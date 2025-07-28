@@ -1,0 +1,5 @@
+flowise
+langchain
+google-generativeai
+vectordb
+qdrant-client
